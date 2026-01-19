@@ -1,0 +1,13 @@
+{
+  "next_account_number": 10003,
+  "accounts": [
+    {
+      "number": 10001,
+      "balance": "1000"
+    },
+    {
+      "number": 10002,
+      "balance": "10000"
+    }
+  ]
+}
