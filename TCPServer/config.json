@@ -1,0 +1,9 @@
+{
+	"Port": 65528,
+	"Database": {
+		"Host": "localhost",
+		"Database": "fyjoBanka",
+		"User": "root",
+		"Password": "student"
+	}
+}
